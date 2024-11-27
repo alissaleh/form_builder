@@ -1,20 +1,16 @@
 {
-    "name": "laravelcollective/html",
+    "name": "alisaleh/html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://laravelcollective.com",
+    "homepage": "https://github.com/alisaleh/html",
     "support": {
-        "issues": "https://github.com/LaravelCollective/html/issues",
-        "source": "https://github.com/LaravelCollective/html"
+        "issues": "https://github.com/alisaleh/html/issues",
+        "source": "https://github.com/alisaleh/html"
     },
     "authors": [
         {
-            "name": "Adam Engebretson",
-            "email": "adam@laravelcollective.com"
-        },
-        {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
+            "name": "Ali Saleh",
+            "email": "your-email@example.com"
         }
     ],
     "require": {
@@ -32,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Collective\\Html\\": "src/"
+            "Alisaleh\\Html\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -44,15 +40,14 @@
         },
         "laravel": {
             "providers": [
-                "Collective\\Html\\HtmlServiceProvider"
+                "Alisaleh\\Html\\HtmlServiceProvider"
             ],
             "aliases": {
-                "Form": "Collective\\Html\\FormFacade",
-                "Html": "Collective\\Html\\HtmlFacade"
+                "Form": "Alisaleh\\Html\\FormFacade",
+                "Html": "Alisaleh\\Html\\HtmlFacade"
             }
         }
     },
     "minimum-stability": "dev",
-    "abandoned": "spatie/laravel-html",
     "prefer-stable": true
 }
