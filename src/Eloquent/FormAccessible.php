@@ -1,6 +1,6 @@
 <?php
 
-namespace Collective\Html\Eloquent;
+namespace Alisaleh\Html\Eloquent;
 
 use ReflectionClass;
 use ReflectionMethod;

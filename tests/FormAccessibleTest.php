@@ -1,10 +1,10 @@
 <?php
 
 use Carbon\Carbon;
-use Collective\Html\Eloquent\FormAccessible;
+use Alisaleh\Html\Eloquent\FormAccessible;
 use Illuminate\Database\Eloquent\Model;
-use Collective\Html\FormBuilder;
-use Collective\Html\HtmlBuilder;
+use Alisaleh\Html\FormBuilder;
+use Alisaleh\Html\HtmlBuilder;
 use Illuminate\Contracts\View\Factory;
 use Illuminate\Http\Request;
 use Illuminate\Routing\RouteCollection;

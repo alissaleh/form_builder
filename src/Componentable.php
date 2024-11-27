@@ -1,6 +1,6 @@
 <?php
 
-namespace Collective\Html;
+namespace Alisaleh\Html;
 
 use BadMethodCallException;
 use Illuminate\Support\Arr;
