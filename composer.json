@@ -1,16 +1,16 @@
 {
-    "name": "alisaleh/html",
+    "name": "alisaleh/form_builder",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://github.com/alisaleh/html",
+    "homepage": "https://github.com/alisaleh/form_builder",
     "support": {
-        "issues": "https://github.com/alisaleh/html/issues",
-        "source": "https://github.com/alisaleh/html"
+        "issues": "https://github.com/alisaleh/form_builder/issues",
+        "source": "https://github.com/alisaleh/form_builder"
     },
     "authors": [
         {
             "name": "Ali Saleh",
-            "email": "your-email@example.com"
+            "email": "alisaleh138111@example.com"
         }
     ],
     "require": {
